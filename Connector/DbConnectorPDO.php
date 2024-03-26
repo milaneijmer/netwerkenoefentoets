@@ -1,7 +1,7 @@
 <?php
 //it allows any type of database.
 
-define("serverName", "localhos:3306t");
+define("serverName", "localhost:3306");
 define("database", "net24mreijmer_datingdb");
 define("username", "net24mreijmer_milan");
 define("password", "JanDeMan890!");
